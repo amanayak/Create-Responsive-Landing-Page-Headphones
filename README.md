@@ -1,5 +1,5 @@
 # Responsive Landing Page Headphones 🎧
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Landing-Page-Headphones)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Landing-Page-Headphones)
 ### Responsive Landing Page Headphones 🎧
 
 - Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
